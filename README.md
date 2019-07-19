@@ -9,9 +9,6 @@ import "github.com/DeyiXu/decentsms"
 # Coding
 ```go
 func init() {
-	decentsms.URL = "http://dingxin.market.alicloudapi.com/dx/sendSms"
-	decentsms.AppKey = ""
-	decentsms.AppSecret = ""
 	decentsms.AppCode = ""
 }
 

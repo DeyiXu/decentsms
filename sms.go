@@ -14,11 +14,7 @@ import (
 
 var (
 	// URL 请求URL
-	URL = ""
-	// AppKey App Key
-	AppKey = ""
-	// AppSecret App Secret
-	AppSecret = ""
+	URL = "http://dingxin.market.alicloudapi.com/dx/sendSms"
 	// AppCode App Code
 	AppCode = ""
 	// Timeout ...
@@ -116,7 +112,7 @@ func encodeParameter(vmap Parameter) string {
 
 // RandomCode 生成验证码
 func RandomCode(length int) string {
-	return random.SmsCode(length)
+	return random.Number(length)
 }
 
 // Parameter 参数

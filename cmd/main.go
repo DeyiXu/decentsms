@@ -13,9 +13,6 @@ const (
 func init() {
 	logger.Init()
 	// 可换成配置文件
-	decentsms.URL = "http://dingxin.market.alicloudapi.com/dx/sendSms"
-	decentsms.AppKey = ""
-	decentsms.AppSecret = ""
 	decentsms.AppCode = ""
 }
 

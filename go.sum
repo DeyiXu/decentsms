@@ -104,8 +104,8 @@ github.com/mwitkow/go-conntrack v0.0.0-20161129095857-cc309e4a2223/go.mod h1:qRW
 github.com/nilorg/pkg v0.0.0-20190503150746-04119506052e h1:y/h94GyrlGi9WMXC2TMrX8gjQZrcbgJ+sPsJY5PrhHI=
 github.com/nilorg/pkg v0.0.0-20190503150746-04119506052e/go.mod h1:xZpo2u5Unae9keCsOnimf8EaDaA/1bFGwMl5/57JH0A=
 github.com/nilorg/sdk v0.0.0-20190403123128-aa8548d0921b/go.mod h1:X1swpPdqguAZaBDoEPyEWHSsJii0YQ1o+3piMv6W3JU=
-github.com/nilorg/sdk v0.0.0-20190708093304-2bd0357c700b h1:c2xl2CJDw4otoZ98pr4+uq5ErgqjjjqRGOoYi+rVRgw=
-github.com/nilorg/sdk v0.0.0-20190708093304-2bd0357c700b/go.mod h1:X1swpPdqguAZaBDoEPyEWHSsJii0YQ1o+3piMv6W3JU=
+github.com/nilorg/sdk v0.0.0-20190719075935-40b1f1120e1b h1:tDssaDMcSryJQdIZe1YLE/osfYDCncSLpA954ImdZoM=
+github.com/nilorg/sdk v0.0.0-20190719075935-40b1f1120e1b/go.mod h1:X1swpPdqguAZaBDoEPyEWHSsJii0YQ1o+3piMv6W3JU=
 github.com/onsi/ginkgo v1.6.0/go.mod h1:lLunBs/Ym6LB5Z9jYTR76FiuTmxDTDusOGeTQH+WWjE=
 github.com/onsi/ginkgo v1.7.0/go.mod h1:lLunBs/Ym6LB5Z9jYTR76FiuTmxDTDusOGeTQH+WWjE=
 github.com/onsi/gomega v1.4.3/go.mod h1:ex+gbHU/CVuBBDIJjb2X0qEXbFg53c61hWP/1CpauHY=
